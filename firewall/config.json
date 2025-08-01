@@ -1,0 +1,9 @@
+{
+    "target_ip": "192.168.1.116",
+    "threat_threshold": 100,
+    "scan_threshold": 50,
+    "blocked_ips": ["192.168.1.90"], 
+    "blocked_ports": [23, 25, 21, 80, 3306],
+    "whitelisted_ips": ["192.168.1.198"],
+    "whitelisted_ports": [22, 443, 587, 1194]
+}
