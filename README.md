@@ -1,7 +1,4 @@
-# FYP-Firewall
-My fyp was making a firewall solution by using Python.
-
-# Firewall Code - README
+# Firewall Python Code - README
 
 This README file provides step-by-step instructions on how to set up, run, and use the provided Python-based firewall code in **Visual Studio Code (VS Code)** or the **Command Prompt** on a Windows system.
 
